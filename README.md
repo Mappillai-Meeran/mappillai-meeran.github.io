@@ -86,7 +86,7 @@
     <div class="section-title">Contact</div>
     <a href="mailto:mappillaimeeran32@gmail.com">Email: mappillaimeeran32@gmail.com</a>
     <a href="tel:+919092774974">Phone: +91 9092774974</a>
-    <a href="https://www.linkedin.com/in/mappillai-meeran-5ba0a128a" target="_blank">LinkedIn</a>
+    <a href="https://www.linkedin.com/in/mappillai-meeran-5ba0a128a" target="_blank">LinkedIn: https://www.linkedin.com/in/mappillai-meeran-5ba0a128a</a>
   </section>
 
   <footer>
